@@ -1,0 +1,100 @@
+<div class="container">
+  <div class="row">
+    <div class="col">
+      <div class="card">
+
+        <div class="card-header">
+          Pipe
+        </div>
+        <div class="card-body">
+          <div class="row">
+            <div class="col-3">
+              <div class="nav flex-column nav-pills" id="v-pills-tab" role="tablist" aria-orientation="vertical">
+                <a class="nav-link active" id="v-pills-birtday1-tab" data-toggle="pill" href="#v-pills-birtday1"
+                  role="tab"
+                  aria-controls="v-pills-birtday1" aria-selected="true">Happy Birtday 1</a>
+
+                <a class="nav-link" id="v-pills-birthday-date-pipe-tab" data-toggle="pill"
+                  href="#v-pills-birthday-date-pipe" role="tab"
+                  aria-controls="v-pills-birthday-date-pipe" aria-selected="false">Birthday DatePipe
+                </a>
+
+                <a class="nav-link" id="v-pills-birtday2-tab" data-toggle="pill" href="#v-pills-birtday2" role="tab"
+                  aria-controls="v-pills-birtday2" aria-selected="false">Hero Birthday v2
+                </a>
+
+                <a class="nav-link" id="v-pills-birthday-pipe-chaining-tab" data-toggle="pill"
+                  href="#v-pills-birthday-pipe-chaining" role="tab"
+                  aria-controls="v-pills-birthday-pipe-chaining" aria-selected="false">Birthday Pipe Chaining
+                </a>
+
+                <a class="nav-link" id="v-pills-power-booster-tab" data-toggle="pill"
+                  href="#v-pills-power-booster" role="tab"
+                  aria-controls="v-pills-power-booster" aria-selected="false">Power Booster
+                </a>
+                <a class="nav-link" id="v-pills-power-booster-calc-tab" data-toggle="pill"
+                  href="#v-pills-power-booster-calc" role="tab"
+                  aria-controls="v-pills-power-booster-calc" aria-selected="false">Power Booster Calculator
+                </a>
+              </div>
+            </div>
+            <div class="col-9">
+              <div class="tab-content" id="v-pills-tabContent">
+                <div class="tab-pane fade show active" id="v-pills-birtday1" role="tabpanel"
+                  aria-labelledby="v-pills-birtday1-tab">
+                  The hero's birthday is {{ birthday | date }}
+                </div>
+
+                <div class="tab-pane fade" id="v-pills-birthday-date-pipe" role="tabpanel"
+                  aria-labelledby="v-pills-birthday-date-pipe-tab">
+                  <h2>Birthday DatePipe</h2>
+                  <p>The hero's birthday is {{ birthday | date }}</p>
+                  <p>The hero's birthday is {{ birthday | date:"MM/dd/yy" }} </p></div>
+
+                <div class="tab-pane fade" id="v-pills-birtday2" role="tabpanel" aria-labelledby="v-pills-birtday2-tab">
+                  <h2>Hero Birthday v2</h2>
+                  <p>The hero's birthday is {{ birthday | date:format }}</p>
+                  <button (click)="toggleFormat()">Toggle Format</button>
+
+                </div>
+                <div class="tab-pane fade" id="v-pills-birthday-pipe-chaining" role="tabpanel"
+                  aria-labelledby="v-pills-birthday-pipe-chaining-tab">
+                  <h2>Birthday Pipe Chaining</h2>
+                  <p>
+                    The chained hero's birthday is
+                    {{ birthday | date | uppercase}}
+                  </p>
+                  <p>
+                    The chained hero's birthday is
+                    {{ birthday | date:'fullDate' | uppercase}}
+                  </p>
+                  <p>
+                    The chained hero's birthday is
+                    {{ ( birthday | date:'fullDate' ) | uppercase}}
+                  </p>
+                </div>
+
+                <div class="tab-pane fade" id="v-pills-power-booster" role="tabpanel"
+                  aria-labelledby="v-pills-power-booster-tab">
+                  <h2>Power Booster</h2>
+                  <p>Super power boost: {{2 | exponentialStrength: '10'}}</p>
+                </div>
+
+                <div class="tab-pane fade" id="v-pills-power-booster-calc" role="tabpanel"
+                  aria-labelledby="v-pills-power-booster-calc-tab">
+                  <app-power-boost-calculator>loading</app-power-boost-calculator>
+
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="card-footer">
+
+        </div>
+      </div>
+    </div>
+
+
+  </div>

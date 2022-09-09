@@ -1,0 +1,857 @@
+{
+    "taskTypes": [
+        {
+            "id": "bb2d3581-679e-4075-ba26-80f30892c890",
+            "isDefault": true,
+            "creationDate": "2019-09-24T05:10:46.000+00:00",
+            "type": "The type of this TaskType608819_01",
+            "subtype": "The subtype of this TaskType",
+            "category": "The category of this TaskType",
+            "description": "The description",
+            "estimatedEffort": 20.5,
+            "estimatedEffortUom": "h",
+            "currency": "USD",
+            "internalTaskAssignment": true,
+            "offerings": [
+                {
+                    "creationDate": "2019-09-24T05:10:46.000+00:00",
+                    "name": "ConnectedAssetMonitoring"
+                }
+            ],
+            "inUse": "YES"
+        },
+        {
+            "id": "fab2766b-fc41-4d8c-99c0-cf596f578ea1",
+            "isDefault": true,
+            "creationDate": "2019-09-12T06:52:57.000+00:00",
+            "type": "The type of this TaskType612309_01",
+            "subtype": "The subtype of this TaskType",
+            "category": "The category of this TaskType",
+            "description": "The description",
+            "estimatedEffort": 20.5,
+            "estimatedEffortUom": "h",
+            "currency": "USD",
+            "internalTaskAssignment": true,
+            "offerings": [
+                {
+                    "creationDate": "2019-09-12T06:52:57.000+00:00",
+                    "name": "ConnectedAssetMonitoring"
+                }
+            ],
+            "inUse": "NO"
+        },
+        {
+            "id": "445dcd0e-e4e4-4ae8-b0e4-170756e52782",
+            "isDefault": true,
+            "creationDate": "2019-09-19T02:41:11.000+00:00",
+            "type": "The type of this TaskType618739_006",
+            "subtype": "The subtype of this TaskType",
+            "category": "The category of this TaskType",
+            "description": "The description",
+            "estimatedEffort": 20.5,
+            "estimatedEffortUom": "h",
+            "currency": "USD",
+            "internalTaskAssignment": true,
+            "offerings": [
+                {
+                    "creationDate": "2019-09-19T02:41:10.000+00:00",
+                    "name": "Core618739"
+                },
+                {
+                    "creationDate": "2019-09-19T02:41:10.000+00:00",
+                    "name": "Core618739_2"
+                },
+                {
+                    "creationDate": "2019-09-19T02:41:10.000+00:00",
+                    "name": "ConnectedAssetMonitoring"
+                }
+            ],
+            "inUse": "YES"
+        },
+        {
+            "id": "758a308a-bdf2-4324-b640-d07f97194b30",
+            "isDefault": true,
+            "creationDate": "2019-09-13T06:16:10.000+00:00",
+            "type": "The type of this TaskType629976_01",
+            "subtype": "The subtype of this TaskType",
+            "category": "The category of this TaskType",
+            "description": "The description",
+            "estimatedEffort": 20.5,
+            "estimatedEffortUom": "h",
+            "currency": "USD",
+            "internalTaskAssignment": true,
+            "offerings": [
+                {
+                    "creationDate": "2019-09-13T06:16:10.000+00:00",
+                    "name": "ConnectedAssetMonitoring"
+                }
+            ],
+            "inUse": "NO"
+        },
+        {
+            "id": "0590f768-9211-4b63-829f-ebbc602a87a4",
+            "isDefault": true,
+            "creationDate": "2019-09-11T08:13:44.000+00:00",
+            "type": "The type of this TaskType630680_01",
+            "subtype": "The subtype of this TaskType",
+            "category": "The category of this TaskType",
+            "description": "The description",
+            "estimatedEffort": 20.5,
+            "estimatedEffortUom": "h",
+            "currency": "USD",
+            "internalTaskAssignment": true,
+            "offerings": [
+                {
+                    "creationDate": "2019-09-11T08:13:44.000+00:00",
+                    "name": "ConnectedAssetMonitoring"
+                }
+            ],
+            "inUse": "NO"
+        },
+        {
+            "id": "fda7dc19-890c-48f6-9d04-73f767dda8ab",
+            "isDefault": true,
+            "creationDate": "2019-09-19T04:57:47.000+00:00",
+            "type": "The type of this TaskType647956_01",
+            "subtype": "The subtype of this TaskType",
+            "category": "The category of this TaskType",
+            "description": "The description",
+            "estimatedEffort": 20.5,
+            "estimatedEffortUom": "h",
+            "currency": "USD",
+            "internalTaskAssignment": true,
+            "offerings": [
+                {
+                    "creationDate": "2019-09-19T04:57:47.000+00:00",
+                    "name": "ConnectedAssetMonitoring"
+                }
+            ],
+            "inUse": "NO"
+        },
+        {
+            "id": "4c588db0-cf55-4332-b973-556b2deaf937",
+            "isDefault": true,
+            "creationDate": "2019-11-14T09:32:35.296+00:00",
+            "type": "The type of this TaskType660658_03",
+            "subtype": "The subtype of this TaskType",
+            "category": "The category of this TaskType",
+            "description": "The description",
+            "estimatedEffort": 20.5,
+            "estimatedEffortUom": "h",
+            "currency": "USD",
+            "internalTaskAssignment": true,
+            "offerings": [
+                {
+                    "creationDate": "2019-11-14T09:32:35.267+00:00",
+                    "name": "ConnectedAssetMonitoring"
+                }
+            ],
+            "inUse": "YES"
+        },
+        {
+            "id": "70996f19-0222-4cd6-a47d-7baa06ca1309",
+            "isDefault": true,
+            "creationDate": "2019-09-17T09:24:11.000+00:00",
+            "type": "The type of this TaskType683457_01",
+            "subtype": "The subtype of this TaskType",
+            "category": "The category of this TaskType",
+            "description": "The description",
+            "estimatedEffort": 20.5,
+            "estimatedEffortUom": "h",
+            "currency": "USD",
+            "internalTaskAssignment": true,
+            "offerings": [
+                {
+                    "creationDate": "2019-09-17T09:24:11.000+00:00",
+                    "name": "ConnectedAssetMonitoring"
+                }
+            ],
+            "inUse": "NO"
+        },
+        {
+            "id": "9f9094c0-2ce0-4387-b838-931b6cea67f7",
+            "isDefault": true,
+            "creationDate": "2019-09-18T06:32:56.000+00:00",
+            "type": "The type of this TaskType690899_01",
+            "subtype": "The subtype of this TaskType",
+            "category": "The category of this TaskType",
+            "description": "The description",
+            "estimatedEffort": 20.5,
+            "estimatedEffortUom": "h",
+            "currency": "USD",
+            "internalTaskAssignment": true,
+            "offerings": [
+                {
+                    "creationDate": "2019-09-18T06:32:56.000+00:00",
+                    "name": "ConnectedAssetMonitoring"
+                }
+            ],
+            "inUse": "NO"
+        },
+        {
+            "id": "63d29528-da00-4cf0-b93a-e96dbabbb03f",
+            "isDefault": true,
+            "creationDate": "2019-08-12T06:48:00.000+00:00",
+            "updatedDate": "2019-08-12T06:48:00.000+00:00",
+            "type": "The type of this TaskType716542_010",
+            "subtype": "The subtype of this TaskType",
+            "category": "The category of this TaskType",
+            "description": "The description",
+            "estimatedEffort": 21.0,
+            "estimatedEffortUom": "h",
+            "currency": "USD",
+            "internalTaskAssignment": true,
+            "offerings": [
+                {
+                    "creationDate": "2019-08-12T06:48:00.000+00:00",
+                    "name": "ConnectedAssetMonitoring"
+                }
+            ],
+            "inUse": "YES"
+        },
+        {
+            "id": "cdbef3c0-ca35-45d0-be9f-e5fa21c7757e",
+            "isDefault": true,
+            "creationDate": "2019-09-12T07:00:42.000+00:00",
+            "type": "The type of this TaskType766793_01",
+            "subtype": "The subtype of this TaskType",
+            "category": "The category of this TaskType",
+            "description": "The description",
+            "estimatedEffort": 20.5,
+            "estimatedEffortUom": "h",
+            "currency": "USD",
+            "internalTaskAssignment": true,
+            "offerings": [
+                {
+                    "creationDate": "2019-09-12T07:00:42.000+00:00",
+                    "name": "ConnectedAssetMonitoring"
+                }
+            ],
+            "inUse": "NO"
+        },
+        {
+            "id": "3b028c60-4330-4047-b658-eae29a688e00",
+            "isDefault": true,
+            "creationDate": "2019-09-17T09:07:18.000+00:00",
+            "type": "The type of this TaskType781608_01",
+            "subtype": "The subtype of this TaskType",
+            "category": "The category of this TaskType",
+            "description": "The description",
+            "estimatedEffort": 20.5,
+            "estimatedEffortUom": "h",
+            "currency": "USD",
+            "internalTaskAssignment": true,
+            "offerings": [
+                {
+                    "creationDate": "2019-09-17T09:07:18.000+00:00",
+                    "name": "ConnectedAssetMonitoring"
+                }
+            ],
+            "inUse": "NO"
+        },
+        {
+            "id": "8630eaad-3842-4dd5-86b8-47f51c04682f",
+            "isDefault": true,
+            "creationDate": "2019-08-12T06:51:13.000+00:00",
+            "updatedDate": "2019-08-12T06:51:13.000+00:00",
+            "type": "The type of this TaskType827612_010",
+            "subtype": "The subtype of this TaskType",
+            "category": "The category of this TaskType",
+            "description": "The description",
+            "estimatedEffort": 21.0,
+            "estimatedEffortUom": "h",
+            "currency": "USD",
+            "internalTaskAssignment": true,
+            "offerings": [
+                {
+                    "creationDate": "2019-08-12T06:51:13.000+00:00",
+                    "name": "ConnectedAssetMonitoring"
+                }
+            ],
+            "inUse": "NO"
+        },
+        {
+            "id": "23f5ec5c-b8ae-43d1-9cff-162a5aafe2d1",
+            "isDefault": true,
+            "creationDate": "2019-09-11T08:43:54.000+00:00",
+            "type": "The type of this TaskType870208_01",
+            "subtype": "The subtype of this TaskType",
+            "category": "The category of this TaskType",
+            "description": "The description",
+            "estimatedEffort": 20.5,
+            "estimatedEffortUom": "h",
+            "currency": "USD",
+            "internalTaskAssignment": true,
+            "offerings": [
+                {
+                    "creationDate": "2019-09-11T08:43:54.000+00:00",
+                    "name": "ConnectedAssetMonitoring"
+                }
+            ],
+            "inUse": "NO"
+        },
+        {
+            "id": "0c167aca-5409-4654-ac71-3ea13bee300e",
+            "isDefault": true,
+            "creationDate": "2019-09-19T02:49:11.000+00:00",
+            "type": "The type of this TaskType899295_006",
+            "subtype": "The subtype of this TaskType",
+            "category": "The category of this TaskType",
+            "description": "The description",
+            "estimatedEffort": 20.5,
+            "estimatedEffortUom": "h",
+            "currency": "USD",
+            "internalTaskAssignment": true,
+            "offerings": [
+                {
+                    "creationDate": "2019-09-19T02:49:11.000+00:00",
+                    "name": "Core899295"
+                },
+                {
+                    "creationDate": "2019-09-19T02:49:11.000+00:00",
+                    "name": "Core899295_2"
+                },
+                {
+                    "creationDate": "2019-09-19T02:49:11.000+00:00",
+                    "name": "ConnectedAssetMonitoring"
+                }
+            ],
+            "inUse": "YES"
+        },
+        {
+            "id": "40941819-e1d7-4598-b2cc-3f74854138c1",
+            "isDefault": true,
+            "creationDate": "2019-09-19T04:39:47.000+00:00",
+            "type": "The type of this TaskType907046_01",
+            "subtype": "The subtype of this TaskType",
+            "category": "The category of this TaskType",
+            "description": "The description",
+            "estimatedEffort": 20.5,
+            "estimatedEffortUom": "h",
+            "currency": "USD",
+            "internalTaskAssignment": true,
+            "offerings": [
+                {
+                    "creationDate": "2019-09-19T04:39:47.000+00:00",
+                    "name": "ConnectedAssetMonitoring"
+                }
+            ],
+            "inUse": "NO"
+        },
+        {
+            "id": "d35d40ec-9e31-4c04-b38c-a45d5f869dc3",
+            "isDefault": true,
+            "creationDate": "2019-08-13T08:54:32.000+00:00",
+            "updatedDate": "2019-08-13T08:54:32.000+00:00",
+            "type": "The type of this TaskType913733_010",
+            "subtype": "The subtype of this TaskType",
+            "category": "The category of this TaskType",
+            "description": "The description",
+            "estimatedEffort": 21.0,
+            "estimatedEffortUom": "h",
+            "currency": "USD",
+            "internalTaskAssignment": true,
+            "offerings": [
+                {
+                    "creationDate": "2019-08-13T08:54:32.000+00:00",
+                    "name": "ConnectedAssetMonitoring"
+                }
+            ],
+            "inUse": "YES"
+        },
+        {
+            "id": "82682f84-8f18-473b-8c27-8a2c4dda7de0",
+            "isDefault": true,
+            "creationDate": "2019-09-11T08:35:57.000+00:00",
+            "type": "The type of this TaskType932653_01",
+            "subtype": "The subtype of this TaskType",
+            "category": "The category of this TaskType",
+            "description": "The description",
+            "estimatedEffort": 20.5,
+            "estimatedEffortUom": "h",
+            "currency": "USD",
+            "internalTaskAssignment": true,
+            "offerings": [
+                {
+                    "creationDate": "2019-09-11T08:35:57.000+00:00",
+                    "name": "ConnectedAssetMonitoring"
+                }
+            ],
+            "inUse": "NO"
+        },
+        {
+            "id": "63ddc192-43f1-440a-892f-e90eccd89f6c",
+            "isDefault": true,
+            "creationDate": "2019-09-13T07:22:37.000+00:00",
+            "type": "The type of this TaskType975708_01",
+            "subtype": "The subtype of this TaskType",
+            "category": "The category of this TaskType",
+            "description": "The description",
+            "estimatedEffort": 20.5,
+            "estimatedEffortUom": "h",
+            "currency": "USD",
+            "internalTaskAssignment": true,
+            "offerings": [
+                {
+                    "creationDate": "2019-09-13T07:22:37.000+00:00",
+                    "name": "ConnectedAssetMonitoring"
+                }
+            ],
+            "inUse": "NO"
+        },
+        {
+            "id": "e968bee6-bb38-4f98-8cca-7f53f4557faa",
+            "isDefault": false,
+            "creationDate": "2020-01-22T01:22:35.946+00:00",
+            "creatorBusinessUserId": "1e0c7bdc-6ae9-44d0-9cac-f7cddab27320",
+            "creatorUserId": "e5ec0e0b-6f83-4160-85ed-eaa5c38f8a07",
+            "updatedDate": "2020-01-22T01:22:35.946+00:00",
+            "businessUserId": "1e0c7bdc-6ae9-44d0-9cac-f7cddab27320",
+            "type": "Type",
+            "subtype": "Subtype",
+            "category": "Category",
+            "description": "a",
+            "estimatedEffort": 1.0,
+            "estimatedEffortUom": "h",
+            "currency": "USD",
+            "internalTaskAssignment": true,
+            "offerings": [
+                {
+                    "creationDate": "2020-01-22T01:22:35.859+00:00",
+                    "creatorBusinessUserId": "1e0c7bdc-6ae9-44d0-9cac-f7cddab27320",
+                    "creatorUserId": "e5ec0e0b-6f83-4160-85ed-eaa5c38f8a07",
+                    "name": "ConnectedAssetMonitoring"
+                }
+            ],
+            "inUse": "NO"
+        },
+        {
+            "id": "b8d518cb-482c-450d-8aae-77b87d767889",
+            "isDefault": false,
+            "creationDate": "2020-04-21T15:41:38.831+00:00",
+            "creatorBusinessUserId": "1e0c7bdc-6ae9-44d0-9cac-f7cddab27320",
+            "creatorUserId": "1a45375c-ec33-430c-807e-0a40a47d458e",
+            "updatedDate": "2020-04-21T15:41:38.831+00:00",
+            "businessUserId": "1e0c7bdc-6ae9-44d0-9cac-f7cddab27320",
+            "type": "type 1",
+            "subtype": "b",
+            "category": "cat1",
+            "description": "d",
+            "estimatedEffort": 2.0,
+            "estimatedEffortUom": "h",
+            "currency": "USD",
+            "internalTaskAssignment": true,
+            "offerings": [
+                {
+                    "creationDate": "2020-04-21T15:41:38.754+00:00",
+                    "creatorBusinessUserId": "1e0c7bdc-6ae9-44d0-9cac-f7cddab27320",
+                    "creatorUserId": "1a45375c-ec33-430c-807e-0a40a47d458e",
+                    "name": "ConnectedAssetMonitoring"
+                }
+            ],
+            "inUse": "NO"
+        },
+        {
+            "id": "adab0e13-68da-467f-9b8a-91209363d23e",
+            "isDefault": false,
+            "creationDate": "2020-01-22T13:11:23.960+00:00",
+            "creatorBusinessUserId": "1e0c7bdc-6ae9-44d0-9cac-f7cddab27320",
+            "creatorUserId": "e5ec0e0b-6f83-4160-85ed-eaa5c38f8a07",
+            "updatedDate": "2020-01-22T13:11:23.960+00:00",
+            "businessUserId": "1e0c7bdc-6ae9-44d0-9cac-f7cddab27320",
+            "type": "type 10",
+            "subtype": "subtype 10",
+            "category": "category 10",
+            "estimatedEffort": 1.0,
+            "estimatedEffortUom": "h",
+            "currency": "USD",
+            "internalTaskAssignment": true,
+            "offerings": [
+                {
+                    "creationDate": "2020-01-22T13:11:23.896+00:00",
+                    "creatorBusinessUserId": "1e0c7bdc-6ae9-44d0-9cac-f7cddab27320",
+                    "creatorUserId": "e5ec0e0b-6f83-4160-85ed-eaa5c38f8a07",
+                    "name": "ConnectedAssetMonitoring"
+                }
+            ],
+            "inUse": "NO"
+        },
+        {
+            "id": "e6f24d04-4d23-45ad-b5f5-63bd34294889",
+            "isDefault": false,
+            "creationDate": "2020-01-22T13:17:20.519+00:00",
+            "creatorBusinessUserId": "1e0c7bdc-6ae9-44d0-9cac-f7cddab27320",
+            "creatorUserId": "e5ec0e0b-6f83-4160-85ed-eaa5c38f8a07",
+            "updatedDate": "2020-01-22T13:17:20.519+00:00",
+            "businessUserId": "1e0c7bdc-6ae9-44d0-9cac-f7cddab27320",
+            "type": "type 11",
+            "subtype": "subtype 11",
+            "category": "category 11",
+            "estimatedEffort": 2.0,
+            "estimatedEffortUom": "h",
+            "currency": "USD",
+            "internalTaskAssignment": true,
+            "offerings": [
+                {
+                    "creationDate": "2020-01-22T13:17:20.412+00:00",
+                    "creatorBusinessUserId": "1e0c7bdc-6ae9-44d0-9cac-f7cddab27320",
+                    "creatorUserId": "e5ec0e0b-6f83-4160-85ed-eaa5c38f8a07",
+                    "name": "ConnectedAssetMonitoring"
+                }
+            ],
+            "inUse": "NO"
+        },
+        {
+            "id": "755a792d-eeab-45b9-83d8-a70a8b099e81",
+            "isDefault": false,
+            "creationDate": "2020-01-22T13:20:10.105+00:00",
+            "creatorBusinessUserId": "1e0c7bdc-6ae9-44d0-9cac-f7cddab27320",
+            "creatorUserId": "e5ec0e0b-6f83-4160-85ed-eaa5c38f8a07",
+            "updatedDate": "2020-01-22T13:20:10.105+00:00",
+            "businessUserId": "1e0c7bdc-6ae9-44d0-9cac-f7cddab27320",
+            "type": "type 12",
+            "subtype": "subtype 12",
+            "category": "category 12",
+            "estimatedEffort": 3.0,
+            "estimatedEffortUom": "h",
+            "currency": "USD",
+            "internalTaskAssignment": true,
+            "offerings": [
+                {
+                    "creationDate": "2020-01-22T13:20:10.028+00:00",
+                    "creatorBusinessUserId": "1e0c7bdc-6ae9-44d0-9cac-f7cddab27320",
+                    "creatorUserId": "e5ec0e0b-6f83-4160-85ed-eaa5c38f8a07",
+                    "name": "ConnectedAssetMonitoring"
+                }
+            ],
+            "inUse": "NO"
+        },
+        {
+            "id": "15170d25-58af-4242-afd0-f80a37c308d9",
+            "isDefault": false,
+            "creationDate": "2020-01-22T13:44:39.736+00:00",
+            "creatorBusinessUserId": "1e0c7bdc-6ae9-44d0-9cac-f7cddab27320",
+            "creatorUserId": "e5ec0e0b-6f83-4160-85ed-eaa5c38f8a07",
+            "updatedDate": "2020-01-22T13:44:39.736+00:00",
+            "businessUserId": "1e0c7bdc-6ae9-44d0-9cac-f7cddab27320",
+            "type": "type 13",
+            "subtype": "subtype 13",
+            "category": "category 13",
+            "estimatedEffort": 3.0,
+            "estimatedEffortUom": "h",
+            "currency": "USD",
+            "internalTaskAssignment": true,
+            "offerings": [
+                {
+                    "creationDate": "2020-01-22T13:44:39.635+00:00",
+                    "creatorBusinessUserId": "1e0c7bdc-6ae9-44d0-9cac-f7cddab27320",
+                    "creatorUserId": "e5ec0e0b-6f83-4160-85ed-eaa5c38f8a07",
+                    "name": "ConnectedAssetMonitoring"
+                }
+            ],
+            "inUse": "NO"
+        },
+        {
+            "id": "c09d5ed3-5e1c-482e-a665-42b8e47b0434",
+            "isDefault": false,
+            "creationDate": "2020-01-22T13:58:10.820+00:00",
+            "creatorBusinessUserId": "1e0c7bdc-6ae9-44d0-9cac-f7cddab27320",
+            "creatorUserId": "e5ec0e0b-6f83-4160-85ed-eaa5c38f8a07",
+            "updatedDate": "2020-01-22T13:58:10.820+00:00",
+            "businessUserId": "1e0c7bdc-6ae9-44d0-9cac-f7cddab27320",
+            "type": "type 14",
+            "subtype": "subtype 14",
+            "category": "category 14",
+            "estimatedEffort": 3.0,
+            "estimatedEffortUom": "h",
+            "currency": "USD",
+            "internalTaskAssignment": true,
+            "offerings": [
+                {
+                    "creationDate": "2020-01-22T13:58:10.742+00:00",
+                    "creatorBusinessUserId": "1e0c7bdc-6ae9-44d0-9cac-f7cddab27320",
+                    "creatorUserId": "e5ec0e0b-6f83-4160-85ed-eaa5c38f8a07",
+                    "name": "ConnectedAssetMonitoring"
+                }
+            ],
+            "inUse": "NO"
+        },
+        {
+            "id": "f3a19d13-57fd-4afc-b2fb-d4613e1bd7da",
+            "isDefault": false,
+            "creationDate": "2020-01-22T14:00:22.767+00:00",
+            "creatorBusinessUserId": "1e0c7bdc-6ae9-44d0-9cac-f7cddab27320",
+            "creatorUserId": "e5ec0e0b-6f83-4160-85ed-eaa5c38f8a07",
+            "updatedDate": "2020-01-22T14:00:22.767+00:00",
+            "businessUserId": "1e0c7bdc-6ae9-44d0-9cac-f7cddab27320",
+            "type": "type 15",
+            "subtype": "subtype 15",
+            "category": "category 15",
+            "estimatedEffort": 14.0,
+            "estimatedEffortUom": "h",
+            "currency": "USD",
+            "internalTaskAssignment": true,
+            "offerings": [
+                {
+                    "creationDate": "2020-01-22T14:00:22.693+00:00",
+                    "creatorBusinessUserId": "1e0c7bdc-6ae9-44d0-9cac-f7cddab27320",
+                    "creatorUserId": "e5ec0e0b-6f83-4160-85ed-eaa5c38f8a07",
+                    "name": "ConnectedAssetMonitoring"
+                }
+            ],
+            "inUse": "NO"
+        },
+        {
+            "id": "ed615707-12fe-46d5-8f52-b8518401c37e",
+            "isDefault": false,
+            "creationDate": "2020-01-22T14:01:38.002+00:00",
+            "creatorBusinessUserId": "1e0c7bdc-6ae9-44d0-9cac-f7cddab27320",
+            "creatorUserId": "e5ec0e0b-6f83-4160-85ed-eaa5c38f8a07",
+            "updatedDate": "2020-01-22T14:01:38.002+00:00",
+            "businessUserId": "1e0c7bdc-6ae9-44d0-9cac-f7cddab27320",
+            "type": "type 16",
+            "subtype": "subtype 16",
+            "category": "category 16",
+            "estimatedEffort": 13.0,
+            "estimatedEffortUom": "h",
+            "currency": "USD",
+            "internalTaskAssignment": true,
+            "offerings": [
+                {
+                    "creationDate": "2020-01-22T14:01:37.905+00:00",
+                    "creatorBusinessUserId": "1e0c7bdc-6ae9-44d0-9cac-f7cddab27320",
+                    "creatorUserId": "e5ec0e0b-6f83-4160-85ed-eaa5c38f8a07",
+                    "name": "ConnectedAssetMonitoring"
+                }
+            ],
+            "inUse": "NO"
+        },
+        {
+            "id": "e50361f0-4b38-4ad8-8d08-ff96ecb113ff",
+            "isDefault": false,
+            "creationDate": "2020-01-21T14:08:13.772+00:00",
+            "creatorBusinessUserId": "1e0c7bdc-6ae9-44d0-9cac-f7cddab27320",
+            "creatorUserId": "e5ec0e0b-6f83-4160-85ed-eaa5c38f8a07",
+            "updatedDate": "2020-01-21T14:08:13.772+00:00",
+            "businessUserId": "1e0c7bdc-6ae9-44d0-9cac-f7cddab27320",
+            "type": "type 3",
+            "subtype": "subtype 3",
+            "category": "category 3",
+            "estimatedEffort": 12.0,
+            "estimatedEffortUom": "h",
+            "currency": "USD",
+            "internalTaskAssignment": true,
+            "offerings": [
+                {
+                    "creationDate": "2020-01-21T14:08:13.699+00:00",
+                    "creatorBusinessUserId": "1e0c7bdc-6ae9-44d0-9cac-f7cddab27320",
+                    "creatorUserId": "e5ec0e0b-6f83-4160-85ed-eaa5c38f8a07",
+                    "name": "ConnectedAssetMonitoring"
+                }
+            ],
+            "inUse": "NO"
+        },
+        {
+            "id": "2963d923-907d-4015-89cd-f35df87c6fad",
+            "isDefault": false,
+            "creationDate": "2020-01-21T14:41:49.901+00:00",
+            "creatorBusinessUserId": "1e0c7bdc-6ae9-44d0-9cac-f7cddab27320",
+            "creatorUserId": "e5ec0e0b-6f83-4160-85ed-eaa5c38f8a07",
+            "updatedDate": "2020-01-21T14:41:49.901+00:00",
+            "businessUserId": "1e0c7bdc-6ae9-44d0-9cac-f7cddab27320",
+            "type": "type 5",
+            "subtype": "subtype 5",
+            "category": "category 5",
+            "estimatedEffort": 17.0,
+            "estimatedEffortUom": "h",
+            "currency": "USD",
+            "internalTaskAssignment": true,
+            "offerings": [
+                {
+                    "creationDate": "2020-01-21T14:41:49.827+00:00",
+                    "creatorBusinessUserId": "1e0c7bdc-6ae9-44d0-9cac-f7cddab27320",
+                    "creatorUserId": "e5ec0e0b-6f83-4160-85ed-eaa5c38f8a07",
+                    "name": "ConnectedAssetMonitoring"
+                }
+            ],
+            "inUse": "YES"
+        },
+        {
+            "id": "30fefa2f-098d-49bd-9dd1-b7afa5f2aff9",
+            "isDefault": false,
+            "creationDate": "2020-01-21T15:10:24.116+00:00",
+            "creatorBusinessUserId": "1e0c7bdc-6ae9-44d0-9cac-f7cddab27320",
+            "creatorUserId": "e5ec0e0b-6f83-4160-85ed-eaa5c38f8a07",
+            "updatedDate": "2020-01-21T15:10:24.116+00:00",
+            "businessUserId": "1e0c7bdc-6ae9-44d0-9cac-f7cddab27320",
+            "type": "type 7",
+            "subtype": "subtype 7",
+            "category": "category 7",
+            "estimatedEffort": 14.0,
+            "estimatedEffortUom": "h",
+            "currency": "USD",
+            "internalTaskAssignment": true,
+            "offerings": [
+                {
+                    "creationDate": "2020-01-21T15:10:23.837+00:00",
+                    "creatorBusinessUserId": "1e0c7bdc-6ae9-44d0-9cac-f7cddab27320",
+                    "creatorUserId": "e5ec0e0b-6f83-4160-85ed-eaa5c38f8a07",
+                    "name": "ConnectedAssetMonitoring"
+                }
+            ],
+            "inUse": "NO"
+        },
+        {
+            "id": "e676a78c-0b24-4016-a35f-1bee32f21af6",
+            "isDefault": false,
+            "creationDate": "2020-01-22T13:07:48.195+00:00",
+            "creatorBusinessUserId": "1e0c7bdc-6ae9-44d0-9cac-f7cddab27320",
+            "creatorUserId": "e5ec0e0b-6f83-4160-85ed-eaa5c38f8a07",
+            "updatedDate": "2020-01-22T13:07:48.195+00:00",
+            "businessUserId": "1e0c7bdc-6ae9-44d0-9cac-f7cddab27320",
+            "type": "type 9",
+            "subtype": "subtype 9",
+            "category": "category 9",
+            "estimatedEffort": 12.0,
+            "estimatedEffortUom": "h",
+            "currency": "USD",
+            "internalTaskAssignment": true,
+            "offerings": [
+                {
+                    "creationDate": "2020-01-22T13:07:48.102+00:00",
+                    "creatorBusinessUserId": "1e0c7bdc-6ae9-44d0-9cac-f7cddab27320",
+                    "creatorUserId": "e5ec0e0b-6f83-4160-85ed-eaa5c38f8a07",
+                    "name": "ConnectedAssetMonitoring"
+                }
+            ],
+            "inUse": "YES"
+        },
+        {
+            "id": "b82c69ca-0c0c-4906-b915-b974d5e471be",
+            "isDefault": false,
+            "creationDate": "2020-05-14T11:03:30.344+00:00",
+            "creatorBusinessUserId": "1e0c7bdc-6ae9-44d0-9cac-f7cddab27320",
+            "creatorUserId": "1a45375c-ec33-430c-807e-0a40a47d458e",
+            "updatedDate": "2020-05-14T11:03:30.344+00:00",
+            "businessUserId": "1e0c7bdc-6ae9-44d0-9cac-f7cddab27320",
+            "type": "type a1",
+            "subtype": "subtype b1",
+            "category": "category a1",
+            "description": "test",
+            "estimatedEffort": 3.0,
+            "estimatedEffortUom": "h",
+            "currency": "USD",
+            "internalTaskAssignment": true,
+            "offerings": [
+                {
+                    "creationDate": "2020-05-14T11:03:30.226+00:00",
+                    "creatorBusinessUserId": "1e0c7bdc-6ae9-44d0-9cac-f7cddab27320",
+                    "creatorUserId": "1a45375c-ec33-430c-807e-0a40a47d458e",
+                    "name": "ConnectedAssetMonitoring"
+                }
+            ],
+            "inUse": "NO"
+        },
+        {
+            "id": "7f03b2be-f45d-49df-9c3e-81599e25cee0",
+            "isDefault": false,
+            "creationDate": "2020-03-23T10:03:00.004+00:00",
+            "creatorBusinessUserId": "1e0c7bdc-6ae9-44d0-9cac-f7cddab27320",
+            "creatorUserId": "1a45375c-ec33-430c-807e-0a40a47d458e",
+            "updatedDate": "2020-03-23T10:03:00.004+00:00",
+            "businessUserId": "1e0c7bdc-6ae9-44d0-9cac-f7cddab27320",
+            "type": "TypeTest1",
+            "subtype": "SubTypeTest1",
+            "category": "CategoryTest1",
+            "description": "Task Type for Test",
+            "estimatedEffort": 3.0,
+            "estimatedEffortUom": "h",
+            "currency": "USD",
+            "internalTaskAssignment": true,
+            "offerings": [
+                {
+                    "creationDate": "2020-03-23T10:02:59.910+00:00",
+                    "creatorBusinessUserId": "1e0c7bdc-6ae9-44d0-9cac-f7cddab27320",
+                    "creatorUserId": "1a45375c-ec33-430c-807e-0a40a47d458e",
+                    "name": "ConnectedAssetMonitoring"
+                }
+            ],
+            "inUse": "YES"
+        },
+        {
+            "id": "e5b975d7-947e-4057-b973-340e27f4e102",
+            "isDefault": false,
+            "creationDate": "2021-04-14T07:47:05.515+00:00",
+            "creatorBusinessUserId": "1e0c7bdc-6ae9-44d0-9cac-f7cddab27320",
+            "creatorUserId": "1a45375c-ec33-430c-807e-0a40a47d458e",
+            "updatedDate": "2021-04-14T07:47:05.515+00:00",
+            "businessUserId": "1e0c7bdc-6ae9-44d0-9cac-f7cddab27320",
+            "type": "wer",
+            "subtype": "wer",
+            "category": "ddd",
+            "estimatedEffort": 3.0,
+            "estimatedEffortUom": "s",
+            "currency": "USD",
+            "internalTaskAssignment": true,
+            "offerings": [
+                {
+                    "creationDate": "2021-04-14T07:47:05.313+00:00",
+                    "creatorBusinessUserId": "1e0c7bdc-6ae9-44d0-9cac-f7cddab27320",
+                    "creatorUserId": "1a45375c-ec33-430c-807e-0a40a47d458e",
+                    "name": "ConnectedAssetMonitoring"
+                }
+            ],
+            "inUse": "NO"
+        },
+        {
+            "id": "5caff6da-91de-432c-bc8a-dbcc75daa91e",
+            "isDefault": false,
+            "creationDate": "2020-01-21T08:54:33.659+00:00",
+            "creatorBusinessUserId": "1e0c7bdc-6ae9-44d0-9cac-f7cddab27320",
+            "creatorUserId": "e5ec0e0b-6f83-4160-85ed-eaa5c38f8a07",
+            "updatedDate": "2020-01-21T08:54:33.659+00:00",
+            "businessUserId": "1e0c7bdc-6ae9-44d0-9cac-f7cddab27320",
+            "type": "WO Task Type",
+            "subtype": "WO Task Ubtypwe",
+            "category": "WO Category",
+            "estimatedEffort": 1.0,
+            "estimatedEffortUom": "h",
+            "currency": "USD",
+            "internalTaskAssignment": true,
+            "offerings": [
+                {
+                    "creationDate": "2020-01-21T08:54:33.578+00:00",
+                    "creatorBusinessUserId": "1e0c7bdc-6ae9-44d0-9cac-f7cddab27320",
+                    "creatorUserId": "e5ec0e0b-6f83-4160-85ed-eaa5c38f8a07",
+                    "name": "ConnectedAssetMonitoring"
+                }
+            ],
+            "inUse": "YES"
+        },
+        {
+            "id": "46a07063-f4fa-4647-aa1e-077e43475846",
+            "isDefault": false,
+            "creationDate": "2020-01-21T08:57:01.816+00:00",
+            "creatorBusinessUserId": "1e0c7bdc-6ae9-44d0-9cac-f7cddab27320",
+            "creatorUserId": "e5ec0e0b-6f83-4160-85ed-eaa5c38f8a07",
+            "updatedDate": "2020-01-21T08:57:01.816+00:00",
+            "businessUserId": "1e0c7bdc-6ae9-44d0-9cac-f7cddab27320",
+            "type": "ww",
+            "subtype": "asa",
+            "category": "assa",
+            "estimatedEffort": 1.0,
+            "estimatedEffortUom": "h",
+            "currency": "USD",
+            "internalTaskAssignment": true,
+            "offerings": [
+                {
+                    "creationDate": "2020-01-21T08:57:01.726+00:00",
+                    "creatorBusinessUserId": "1e0c7bdc-6ae9-44d0-9cac-f7cddab27320",
+                    "creatorUserId": "e5ec0e0b-6f83-4160-85ed-eaa5c38f8a07",
+                    "name": "ConnectedAssetMonitoring"
+                }
+            ],
+            "inUse": "NO"
+        }
+    ]
+}

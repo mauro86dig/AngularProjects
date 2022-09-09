@@ -1,0 +1,11 @@
+{"listaUtenti":[{"id":"1234","nome":"domenico","cognome":"sotgiu","username":"domSot","ruolo":"MANAGER","utenzaSospesa":true},
+{"id":"1245","nome":"Leonor","cognome":"Cross","username":"pippo","ruolo":"MANAGER","utenzaSospesa":true},
+{"id":"1225","nome":"Bird","cognome":"Ramsey","username":"bird","ruolo":"MANAGER","utenzaSospesa":true},
+{"id":"1295","nome":"Kristie","cognome":"Cole","username":"kristie","ruolo":"MANAGER","utenzaSospesa":false},
+{"id":"1245","nome":"Marsh","cognome":"Mccall","username":"march","ruolo":"MANAGER","utenzaSospesa":true},
+{"id":"1275","nome":"Mauro","cognome":"Digiovanni","username":"mauro","ruolo":"MANAGER","utenzaSospesa":false},
+{"id":"1243","nome":"Andrea","cognome":"Rossi","username":"andrearossi","ruolo":"MANAGER","utenzaSospesa":true},
+{"id":"1241","nome":"Francesco","cognome":"Cole","username":"andreacole","ruolo":"MANAGER","utenzaSospesa":false},
+{"id":"1245","nome":"Armando","cognome":"Rossi","username":"armandorossi","ruolo":"MANAGER","utenzaSospesa":true},
+{"id":"1345","nome":"Giovanni","cognome":"Barbuto","username":"giovannibarbuto","ruolo":"MANAGER","utenzaSospesa":true},
+{"id":"1385","nome":"Eleonara","cognome":"Lecci","username":"eleonoraLecci","ruolo":"MANAGER","utenzaSospesa":false}]}
